@@ -3,9 +3,9 @@ This repository contains a comprehensive analysis of Dublin's bike-sharing syste
 
 📂 Repository Contents
 File Name	Description
-K00302101_TASK_1.ipynb	Jupyter Notebook for Task 1: Initial data extraction, cleaning, and parsing of nested structures from JCDecaux API.
-K00302101_TASK_3.ipynb	Jupyter Notebook for Task 3: Exploratory Data Analysis (EDA) and insights generation integrating weather data.
-cleaned.xlsx	Cleaned bike-sharing dataset after flattening and preprocessing nested columns.
+CODE 1.ipynb	Jupyter Notebook for Task 1: Initial data extraction, cleaning, and parsing of nested structures from JCDecaux API.
+CODE 2.ipynb	Jupyter Notebook for Task 3: Exploratory Data Analysis (EDA) and insights generation integrating weather data.
+cleaned_bike_data.xlsx	Cleaned bike-sharing dataset after flattening and preprocessing nested columns.
 cleaned_weather_dataset.xlsx	Preprocessed historical weather data for Dublin city, cleaned and ready for analysis.
 merged_bike_data1.xlsx	Merged dataset containing structured station data and corresponding timestamps.
 Weather.xlsx	Original raw weather dataset prior to preprocessing.
